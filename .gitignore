@@ -3,13 +3,18 @@ node_modules/
 
 # npm debug logs
 npm-debug.log*
+
+# Yarn debug logs
 yarn-debug.log*
 yarn-error.log*
 
 # Environment variables
 .env
-.env.local
+.env.*
 
 # Logs
 logs
 *.log
+
+# OS files
+.DS_Store
