@@ -1,6 +1,7 @@
 {
   "name": "artifact-2",
   "version": "1.0.0",
+  "private": true,
   "description": "Node.js + Express tutorial server exposing the Hello world and Good evening endpoints",
   "main": "server.js",
   "scripts": {
